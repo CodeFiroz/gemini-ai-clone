@@ -12,11 +12,3 @@ Check out the live demo [here](https://gemini-ai-clone-frontend.netlify.app/).
 
 - **Search Functionality**: Users can search for queries similar to Google's search functionality.
 - **Responsive Design**: Ensures optimal user experience across various devices and screen sizes.
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CodeFiroz/gemini-ai-clone.git
